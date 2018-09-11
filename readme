@@ -1,1 +1,4 @@
-todo:网络IO优化
+todo:
+1. 网络IO优化:bufio
+2. io对goroutine性能的影响测试
+
